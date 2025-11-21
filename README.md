@@ -1,8 +1,26 @@
-# 📱 OTA Server – Custom ROM by Breno
+# BrenoOS SM-T113NU — Patch de Segurança Dezembro/2025
 
-Este repositório contém o servidor OTA (Over-The-Air) responsável por fornecer atualizações para a minha ROM personalizada.  
-Ele hospeda o arquivo `ota.json`, que é usado pelo updater da ROM para verificar novas versões e baixar atualizações.
+Esta é a atualização de segurança da BrenoOS v1.0.2 para o tablet SM-T113NU.
 
----
+## Detalhes da atualização
 
-## 📦 Estrutura do Repositório
+- **Versão:** 1.0.2
+- **Build:** 20251201
+- **Tipo:** Atualização de segurança
+- **Tamanho do ZIP:** 2.2 GB
+- **Changelog:**
+  - Patch de segurança do sistema
+  - Correções de bugs críticos
+  - Melhorias de estabilidade e desempenho
+
+## Instalação
+
+1. Baixe o `update-brenoos-v1.0.2.zip` do GitHub Release.
+2. Abra o app Updater da BrenoOS ou TWRP.
+3. Instale o update.zip.
+4. Reinicie o dispositivo.
+
+## Nota
+
+- O servidor OTA continuará ativo para futuras atualizações.
+- Atualizações emergenciais poderão ser lançadas caso apareçam vulnerabilidades críticas.
