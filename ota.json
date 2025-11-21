@@ -1,14 +1,84 @@
 {
   "latest": {
-    "rom": "BrenoOS",
-    "version": "1.0",
-    "build": "20251120",
-    "codename": "breno_t113",
-    "device": "SM-T113NU",
-    "type": "stable",
-    "changelog": "Primeira atualização da BrenoOS. Atualização simulada para testar o servidor OTA e o app Updater.",
-    "zip_url": "https://raw.githubusercontent.com/Breno21032012/BrenoOS/main/ota/update-brenoos-v1-placeholder.zip",
-    "zip_size": "2200000",
-    "timestamp": "1732140000"
-  }
+    "version": "1.1.3",
+    "build": "20260610-security",
+    "type": "security",
+    "url": "https://github.com/SEUUSUARIO/BrenoOS/releases/download/v1.1.3/BrenoOS_v1.1.3_security.zip",
+    "size": 10485760,
+    "md5": "1234567890abcdef1234567890abcdef"
+  },
+  "history": [
+    {
+      "version": "1.1.2",
+      "build": "20260510-security",
+      "type": "security",
+      "url": "https://github.com/SEUUSUARIO/BrenoOS/releases/download/v1.1.2/BrenoOS_v1.1.2_security.zip",
+      "size": 10480000,
+      "md5": "b1c2d3e4f5a6978899ff112233445566"
+    },
+    {
+      "version": "1.1.1",
+      "build": "20260410-security",
+      "type": "security",
+      "url": "https://github.com/SEUUSUARIO/BrenoOS/releases/download/v1.1.1/BrenoOS_v1.1.1_security.zip",
+      "size": 10481000,
+      "md5": "11223344556677889900aabbccddeeff"
+    },
+    {
+      "version": "1.1.0",
+      "build": "20260315-full",
+      "type": "full",
+      "url": "https://github.com/SEUUSUARIO/BrenoOS/releases/download/v1.1.0/BrenoOS_v1.1.0_full.zip",
+      "size": 250000000,
+      "md5": "aa11bb22cc33dd44ee55ff6677889900"
+    },
+    {
+      "version": "1.0.5",
+      "build": "20260210-security",
+      "type": "security",
+      "url": "https://github.com/SEUUSUARIO/BrenoOS/releases/download/v1.0.5/BrenoOS_v1.0.5_security.zip",
+      "size": 10482000,
+      "md5": "ddee1122334455667788aa99bb00ccdd"
+    },
+    {
+      "version": "1.0.4",
+      "build": "20260110-security",
+      "type": "security",
+      "url": "https://github.com/SEUUSUARIO/BrenoOS/releases/download/v1.0.4/BrenoOS_v1.0.4_security.zip",
+      "size": 10483000,
+      "md5": "00cc11dd22ee33ff445566778899aabb"
+    },
+    {
+      "version": "1.0.3",
+      "build": "20251210-security",
+      "type": "security",
+      "url": "https://github.com/SEUUSUARIO/BrenoOS/releases/download/v1.0.3/BrenoOS_v1.0.3_security.zip",
+      "size": 10484000,
+      "md5": "abcdef1234567890abcdef1234567890"
+    },
+    {
+      "version": "1.0.2",
+      "build": "20251201-patch",
+      "type": "patch",
+      "url": "https://github.com/SEUUSUARIO/BrenoOS/releases/download/v1.0.2/BrenoOS_v1.0.2_patch.zip",
+      "size": 110000000,
+      "md5": "ffeeddccbbaa99887766554433221100"
+    },
+    {
+      "version": "1.0.1",
+      "build": "20251120-patch",
+      "type": "patch",
+      "url": "https://github.com/SEUUSUARIO/BrenoOS/releases/download/v1.0.1/BrenoOS_v1.0.1_patch.zip",
+      "size": 120000000,
+      "md5": "abcdabcdabcdabcdabcdabcdabcdabcd"
+    },
+    {
+      "version": "1.0.0",
+      "build": "20251115-full",
+      "type": "full",
+      "url": "https://github.com/SEUUSUARIO/BrenoOS/releases/download/v1.0.0/BrenoOS_v1.0.0_full.zip",
+      "size": 250000000,
+      "md5": "12341234123412341234123412341234"
+    }
+  ]
 }
